@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Russia",
+        "population": 146781095,
+        "capital": "Moscow",
+        "location":{
+            "latitude":55.75222,
+            "longitude":37.61556
+        }
+    },
+    {
+        "name": "France",
+        "population": 146781095,
+        "capital": "Paris",
+        "location":{
+            "latitude":25.75222,
+            "longitude":77.61556
+        }
+    },
+    {
+        "name": "Italy",
+        "population": 146781095,
+        "capital": "Rome",
+        "location":{
+            "latitude":15.75222,
+            "longitude":47.61556
+        }
+    }
+]
